@@ -177,4 +177,32 @@ h3{
         font-size: 15px;
     }
 }
+@media only screen and (min-height:700px) and (max-height:800px) {
+    #bmiBox{
+        height: 55vh;
+        width: 95%;
+        margin-top: 100px !important;
+    }
+    #resultBox{
+        height: 15vh;
+        width: 95%;
+    }
+    #weightText{
+        font-size: 15px;
+    }
+}@media only screen and (min-height:500px) and (max-height:700px) {
+    #bmiBox{
+        height: 60vh;
+        width: 95%;
+        margin-top: 50px !important;
+    }
+    #resultBox{
+        height: 15vh;
+        width: 95%;
+    }
+    #weightText{
+        font-size: 15px;
+    }
+}
+
 
